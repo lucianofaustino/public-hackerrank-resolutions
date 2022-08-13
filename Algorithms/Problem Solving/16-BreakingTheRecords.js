@@ -18,7 +18,7 @@ function breakingRecords(scores) {
         }
     }
 
-    return [countMax, countMin]
+    return [countMax, countMin] // [ 2, 4 ]
 
     // console.log(countMax, countMin)
 }
